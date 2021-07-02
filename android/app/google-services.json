@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "485432656945",
+    "project_id": "loginauth-35eda",
+    "storage_bucket": "loginauth-35eda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485432656945:android:d7ea2a35242b42b4974110",
+        "android_client_info": {
+          "package_name": "com.example.login_page"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485432656945-lv7aag6qkjp90f3i28h312m3k9ncq5sl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn2Tg8X9Xks7mvWB-NWso3zbhQbp7CjBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485432656945-lv7aag6qkjp90f3i28h312m3k9ncq5sl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
